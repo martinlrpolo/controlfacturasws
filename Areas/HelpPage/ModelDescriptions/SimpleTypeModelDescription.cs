@@ -1,0 +1,6 @@
+namespace controlfacturasws.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}

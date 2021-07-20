@@ -1,0 +1,5 @@
+=============Error Logging ===========
+===========Start============= 20/10/2019 1:47:45 p. m.
+Error Message: Wrong Data
+Stack Trace:    en controlfacturasws.Controllers.PruebasController.log() en E:\Proyectos\Net\controlfacturasws\Controllers\PruebasController.cs:línea 61
+===========End============= 20/10/2019 1:47:46 p. m.
